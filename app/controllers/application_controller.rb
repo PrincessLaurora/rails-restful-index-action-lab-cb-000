@@ -6,5 +6,5 @@ class ApplicationController < ActionController::Base
 
   get '/student' do
   end
-  
+
 end
